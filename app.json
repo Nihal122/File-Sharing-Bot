@@ -5,7 +5,7 @@
     "telegram",
     "file",
     "sharing",
-  "repository": "https://github.com/Nihal122/File-Sharing-Bot
+  "repository": "https://github.com/Nihal122/File-Sharing-Bot"‚
   "logo ": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
